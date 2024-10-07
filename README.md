@@ -1,6 +1,6 @@
 HeLLo i'M darSHitA sHAh a
        JAva DevLoPEr
--  Knowledge of  Core Java, Jsp servlet SpringBootIoc, SpringMvc, Spring Security HTML <>, {Css}, BootStrap{}
+-  Knowledge of  Core Java,  SpringBootIoc, SpringMvc, Spring Security HTML <>, {Css}, BootStrap{}
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning JS
 - 📫 How to reach me darshitashah0308@gmail.com
